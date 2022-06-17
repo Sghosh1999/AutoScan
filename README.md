@@ -22,21 +22,24 @@
 
 This is an automatic Business Cards' Text Extraction & Labeling. BIO Tagging is used to prepare the training data and to train the Spacy NER Model.
 
-|                               BIO Tagging                                |                             Grouped Labeling                             |
-| :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| ![](https://github.com/Sghosh1999/AutoScan/blob/main/images/mapping.JPG) | ![](https://github.com/Sghosh1999/AutoScan/blob/main/images/grouped.JPG) |
-
 <a name="usecase1"/>
 
-# Usecase 1 : Business cards Text Extraction & Labeling :heart_eyes:
+## Business cards Text Extraction & Labeling
 
-It automatically detects the texts in the Input Business Cards and it tags the entities using BIO tagging.
+- It automatically detects the texts in the Input Business Cards **using pytesseract**.
+- Detecting the Entities using **Spacy Displacy - with custom styling**.
 
 |                                 Input Image                                  |                                BIO Tagging                                |
 | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 | ![](https://github.com/Sghosh1999/AutoScan/blob/main/images/input_image.JPG) | ![](https://github.com/Sghosh1999/AutoScan/blob/main/images/bio_tags.JPG) |
 
-<a name="feat1"/>
+- Drawing Bounding Box using the **left,top,width,height positions.**
+
+- Creating a Grouping Label utility to group the NAME, EMAIL, DES, ORG,PHONE,WEB.
+
+|                               BIO Tagging                                |                             Grouped Labeling                             |
+| :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+| ![](https://github.com/Sghosh1999/AutoScan/blob/main/images/mapping.JPG) | ![](https://github.com/Sghosh1999/AutoScan/blob/main/images/grouped.JPG) |
 
 ## Built With
 
