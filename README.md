@@ -1,6 +1,6 @@
 # Auto Scan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/MarcSkovMadsen/awesome-streamlit)
 
-[<img src="https://www.innovagroupbcn.com/wp-content/uploads/2017/02/ocr.jpg" align="right" height="75" width="75">](https://streamlit.io)
+[<img src="https://play-lh.googleusercontent.com/E2LFExZjx_w5OlRSIUujO46TlOE14mIhTxQ94QPtwJv-yen5q3xKoBm-pbkHTZUVPa4" align="right" height="75" width="75">](https://streamlit.io)
 
 > Text Extraction & NER Recognition Tool **using pytesseract**! Powered by **Python**!
 
