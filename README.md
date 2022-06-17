@@ -8,9 +8,19 @@
 
 ### Table of Contents
 
+    .
+    ├── data
+    |   ├── Images                          # Sampel Images for Testing
+    |   ├── TrainData.pickle                # Processed Train Data Dump
+    |   ├── train.spacy                     # Processed Train Data (Spacy Format)
+    ├── Prediction_testing_Single_Image.ipynb # Final Prediction File
+    ├── output                                # Test files (alternatively `spec` or `tests`)
+    │   ├── model-best                      # Train Spacy NER Model Files
+    │
+    └── ...
+
 - [Description](#description)
 - [Usecase 1: Business Card Text Recognition](#usecase1)
-  - [Features](#feat1)
 - [Prerequisites](#prerq)
 - [Installation Guide](#guide)
 
