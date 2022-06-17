@@ -22,9 +22,9 @@
 
 This is an automatic Business Cards' Text Extraction & Labeling. BIO Tagging is used to prepare the training data and to train the Spacy NER Model.
 
-|                                                    BIO Tagging                                                    |                                                 Grouped Labeling                                                  |
-| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
-| ![](https://github.com/Sghosh1999/AutoGenerateTrackers/blob/da2d8f24090a6ec12cfe3a8b715704887987eae8/demos/a.jpg) | ![](https://github.com/Sghosh1999/AutoGenerateTrackers/blob/da2d8f24090a6ec12cfe3a8b715704887987eae8/demos/b.jpg) |
+|                               BIO Tagging                                |                             Grouped Labeling                             |
+| :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+| ![](https://github.com/Sghosh1999/AutoScan/blob/main/images/mapping.JPG) | ![](https://github.com/Sghosh1999/AutoScan/blob/main/images/grouped.JPG) |
 
 <a name="usecase1"/>
 
@@ -32,9 +32,9 @@ This is an automatic Business Cards' Text Extraction & Labeling. BIO Tagging is 
 
 It automatically detects the texts in the Input Business Cards and it tags the entities using BIO tagging.
 
-|                                                    Input Image                                                    |                                                    BIO Tagging                                                    |
-| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
-| ![](https://github.com/Sghosh1999/AutoGenerateTrackers/blob/da2d8f24090a6ec12cfe3a8b715704887987eae8/demos/a.jpg) | ![](https://github.com/Sghosh1999/AutoGenerateTrackers/blob/da2d8f24090a6ec12cfe3a8b715704887987eae8/demos/b.jpg) |
+|                                 Input Image                                  |                                BIO Tagging                                |
+| :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+| ![](https://github.com/Sghosh1999/AutoScan/blob/main/images/input_image.JPG) | ![](https://github.com/Sghosh1999/AutoScan/blob/main/images/bio_tags.JPG) |
 
 <a name="feat1"/>
 
