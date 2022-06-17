@@ -38,14 +38,6 @@ It automatically detects the texts in the Input Business Cards and it tags the e
 
 <a name="feat1"/>
 
-<a name="demo1"/>
-
-### Application Demo
-
-<p align="center">
-  <img src="https://github.com/Sghosh1999/AutoGenerateTrackers/blob/49d6ce9efecaf581b7227c97dc5d3c6f3d24ef75/demos/daily_trcaker_demo.gif" alt="animated" />
-</p>
-
 ## Built With
 
 This section should list any major frameworks that we have used to build the application.
